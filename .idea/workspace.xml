@@ -5,7 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65ecc143-c13a-44c9-b207-930d19a1c49c" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +59,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rhann\PycharmProjects\web-portfolio\pythonProject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709157064870</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1709157100976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709157100976</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
