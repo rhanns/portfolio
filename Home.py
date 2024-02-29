@@ -20,7 +20,7 @@ content_about = """Below you can find the projects that I have worked on during 
 \nIt's on UDEMY and I want to give credit to the course.
 """
 st.write(content_about)
-
+st.title("29/02/24 - set up homepage. contact form not functional. no projects added.")
 col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
 df = pandas.read_csv("data.csv", sep=";")
 with col3:
