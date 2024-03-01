@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65ecc143-c13a-44c9-b207-930d19a1c49c" name="Changes" comment="day 3/3&#10;deployed to streamlit, testing a commit/push to update the live app">
-      <change afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
+    <list default="true" id="65ecc143-c13a-44c9-b207-930d19a1c49c" name="Changes" comment="day 3/3&#10;built a send email script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/Contact_Us.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Contact_Us.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709229589675</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="day 3/3&#10;built a send email script">
+      <option name="closed" value="true" />
+      <created>1709320116608</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709320116608</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,6 +198,7 @@
     <MESSAGE value="day 2/3 final touches." />
     <MESSAGE value="day 3/3&#10;add contact page" />
     <MESSAGE value="day 3/3&#10;deployed to streamlit, testing a commit/push to update the live app" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3/3&#10;deployed to streamlit, testing a commit/push to update the live app" />
+    <MESSAGE value="day 3/3&#10;built a send email script" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3/3&#10;built a send email script" />
   </component>
 </project>
