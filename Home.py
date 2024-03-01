@@ -9,13 +9,14 @@ with col1:
 with col2:
     st.title("Ezra Smith")
     content = """
-    Hello, my name is Ezra. This is my first web project using python and streamlit. This website itself is one of the projects that I am working on,
-    including this page that showcases all of my projects, and a contact form. \n\nI was a .net developer who over the years has unfortunately lost several skillsets
-    due to not ending up in a development role. As python feels more useful to my every day life, and not as an actual career choice, this is mostly just for fun.
+    Hello, my name is Ezra. This is my first web project using python and streamlit. This website itself is one of the 
+    projects that I am working on, including this page that showcases all of my projects, and a contact form. \n\n
+    I was a .net developer who entered the automotive SaaS industry as tech support,to get my foot in the door. 
+    I never made it onto a dev team but as python feels more useful to my every day life, this is just for fun.
     """
     st.info(content)
 
-content_about = """Below you can find the projects that I have worked on during the course:
+content_about = """Below you can find the projects that I have worked on during the course:\n
 "Learn Python completely in 60 days or less by building 20 real-world applications from web development to data science."
 \nIt's on UDEMY and I want to give credit to the course.
 """
