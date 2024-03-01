@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65ecc143-c13a-44c9-b207-930d19a1c49c" name="Changes" comment="day 3/3&#10;implemented email script with form - tested sending emails">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
+    <list default="true" id="65ecc143-c13a-44c9-b207-930d19a1c49c" name="Changes" comment="Finished website&#10;Updated URLs for portfolio website and todo app">
+      <change beforePath="$PROJECT_DIR$/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709321208742</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Finished website&#10;Updated URLs for portfolio website and todo app">
+      <option name="closed" value="true" />
+      <created>1709324522963</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709324522963</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,6 +214,7 @@
     <MESSAGE value="day 3/3&#10;deployed to streamlit, testing a commit/push to update the live app" />
     <MESSAGE value="day 3/3&#10;built a send email script" />
     <MESSAGE value="day 3/3&#10;implemented email script with form - tested sending emails" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3/3&#10;implemented email script with form - tested sending emails" />
+    <MESSAGE value="Finished website&#10;Updated URLs for portfolio website and todo app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished website&#10;Updated URLs for portfolio website and todo app" />
   </component>
 </project>
