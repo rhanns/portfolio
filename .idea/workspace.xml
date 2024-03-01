@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65ecc143-c13a-44c9-b207-930d19a1c49c" name="Changes" comment="day 3/3&#10;built a send email script">
+    <list default="true" id="65ecc143-c13a-44c9-b207-930d19a1c49c" name="Changes" comment="day 3/3&#10;implemented email script with form - tested sending emails">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Contact_Us.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Contact_Us.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,14 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.send_email.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.send_email.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rhann\PycharmProjects\web-portfolio\pythonProject\images" />
@@ -185,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709320116608</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="day 3/3&#10;implemented email script with form - tested sending emails">
+      <option name="closed" value="true" />
+      <created>1709321208742</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709321208742</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,6 +207,7 @@
     <MESSAGE value="day 3/3&#10;add contact page" />
     <MESSAGE value="day 3/3&#10;deployed to streamlit, testing a commit/push to update the live app" />
     <MESSAGE value="day 3/3&#10;built a send email script" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3/3&#10;built a send email script" />
+    <MESSAGE value="day 3/3&#10;implemented email script with form - tested sending emails" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3/3&#10;implemented email script with form - tested sending emails" />
   </component>
 </project>
