@@ -21,7 +21,7 @@ content_about = """Below you can find the projects that I have worked on during 
 \nIt's on UDEMY and pretty effin cool.
 """
 st.write(content_about)
-st.title("Current Project being worked: Generate PDF Template")
+st.title("Current Project being worked: PDF Templates")
 col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
 df = pandas.read_csv("data.csv", sep=";")
 with col3:
