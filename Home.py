@@ -9,7 +9,7 @@ with col1:
 with col2:
     st.title("Ezra Smith")
     content = """
-    Hello, my name is Ezra. This is my first web project using python and streamlit. This website itself is one of the 
+    This is my first web project using python and streamlit. This website itself is one of the 
     projects that I am working on, including this page that showcases all of my projects, and a contact form. \n\n
     I was a .net developer who entered the automotive SaaS industry as tech support,to get my foot in the door. 
     I never made it onto a dev team but as python feels more useful to my every day life, this is just for fun.
@@ -21,7 +21,7 @@ content_about = """Below you can find the projects that I have worked on during 
 \nIt's on UDEMY and pretty effin cool.
 """
 st.write(content_about)
-st.title("Current Project being worked: PDF Templates")
+st.title("Current Project being worked: PDF Invoices")
 col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
 df = pandas.read_csv("data.csv", sep=";")
 with col3:
