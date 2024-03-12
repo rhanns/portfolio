@@ -18,10 +18,10 @@ with col2:
 
 content_about = """Below you can find the projects that I have worked on during the course:\n
 "Learn Python completely in 60 days or less by building 20 real-world applications from web development to data science."
-\nIt's on UDEMY and I want to give credit to the course.
+\nIt's on UDEMY and pretty effin cool.
 """
 st.write(content_about)
-st.title("Contact form now works. Todo app and portfolio website have source code so far!")
+st.title("Current Project being worked: Generate PDF Template")
 col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
 df = pandas.read_csv("data.csv", sep=";")
 with col3:

@@ -1,7 +1,7 @@
 title;description;url;image
-Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/rhanns/todo-app;1.png
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/rhanns/portfolio;2.png
-PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://pythonhow.com;3.png
+Todo App;A simple web based app that adds users input items as a checklist. Desktop GUI is on github.;https://github.com/rhanns/todo-app;1.png
+Portfolio Website;YOU ARE HERE - a website built entirely in Python to showcase coding projects and apps.;https://github.com/rhanns/portfolio;2.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/rhanns/generate_pdf;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://pythonhow.com;4.png
 Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.png
